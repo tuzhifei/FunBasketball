@@ -1,0 +1,6 @@
+framework module Pods_BreakOutGameVansV {
+  umbrella header "Pods-BreakOutGameVansV-umbrella.h"
+
+  export *
+  module * { export * }
+}
